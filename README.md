@@ -30,7 +30,10 @@ Finalmente, se realizó el análisis de la HRV comparando los parámetros básic
   
 ### 3. Variabilidad de la frecuencia cardíaca (HRV) obtenida a partir de la señal electrocardiográfica (ECG)
 
+
+
 <p align="justify">
+  
 ### 4. Diagrama de Poincaré como herramienta de análisis de la serie R-R. 
 
 ### Diagramas de flujo
