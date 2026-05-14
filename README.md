@@ -27,6 +27,7 @@ Finalmente, se realizó el análisis de la HRV comparando los parámetros básic
 
   
 <p align="justify">
+  
 ### 3. Variabilidad de la frecuencia cardíaca (HRV) obtenida a partir de la señal electrocardiográfica (ECG)
 
 <p align="justify">
