@@ -65,6 +65,11 @@ En el ámbito clínico y de investigación, la principal ventaja de esta herrami
 
 ## Diagramas de flujo
 
+### Parte C
+<p align="center">
+<img width="1024" height="768" alt="1" src="https://github.com/user-attachments/assets/46d173bf-922d-41d8-bb14-89863de3fd2a" />
+<img width="1024" height="768" alt="2" src="https://github.com/user-attachments/assets/1b3a8003-de77-4cfb-895d-36c810282770" />
+<img width="1018" height="280" alt="5" src="https://github.com/user-attachments/assets/21ef72dc-6087-44b4-836a-ed439340ce56" />
 
 
 ## Resultados
