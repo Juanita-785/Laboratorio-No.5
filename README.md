@@ -7,7 +7,9 @@ Este proyecto contiene el código y la información necesarios para comprender l
 
 ## Propósito
 <p align="justify">
+El propósito de este laboratorio es que el estudiante aplique técnicas de análisis de la variabilidad cardíaca y comprenda la importancia del cálculo de parámetros en el dominio del tiempo dentro del procesamiento de señales, específicamente en señales electrocardiográficas (ECG). Se busca que el estudiante entienda el análisis de la variabilidad cardíaca como una herramienta que permite evaluar la actividad del sistema nervioso autónomo, en particular las respuestas simpática y parasimpática asociadas a actividades que implican verbalización.
 
+Asimismo, mediante el cálculo de parámetros como la media y la desviación estándar, junto con el análisis de señales biológicas, se pretende que el estudiante evalúe el impacto de estos procedimientos en la identificación de cambios en la actividad simpática y parasimpática presentes en señales ECG, y reconozca su relevancia en aplicaciones propias de la ingeniería biomédica. Además, se busca que el estudiante relacione estos parámetros con características fisiológicas y con la calidad de la señal, permitiendo interpretar diferencias entre actividades que implican verbalización y aquellas que no.
 
 ## Metodología 
 <p align="justify">
