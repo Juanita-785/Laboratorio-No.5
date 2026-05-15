@@ -29,10 +29,13 @@ Finalmente, se realizó el análisis de la HRV comparando los parámetros básic
 <p align="justify">
   
 ### 3. Variabilidad de la frecuencia cardíaca (HRV) obtenida a partir de la señal electrocardiográfica (ECG)
-
-
+La Variabilidad de la Frecuencia Cardíaca (HRV) se define como la variación en el tiempo (medida en milisegundos) que transcurre entre latidos cardíacos consecutivos, conocidos como intervalos R-R. En un individuo sano, el ritmo cardíaco no es perfectamente regular; por el contrario, el tiempo entre dos latidos varía latido a latido debido a la influencia constante de mecanismos reguladores.
 
 <p align="justify">
+Desde una perspectiva técnica, la HRV se obtiene a partir de la señal de electrocardiografía (ECG) mediante la identificación de cada una de las ondas R para calcular el tiempo exacto entre picos R adyacentes. Esta serie de intervalos R-R resultantes conforma lo que se denomina el tacograma, que es la base para todos los análisis posteriores en los dominios del tiempo, la frecuencia y los métodos no lineales.
+
+<p align="justify">
+Fisiológicamente, la HRV es un indicador fundamental de la función autonómica cardíaca, ya que refleja la interacción dinámica y el equilibrio entre las ramas simpática y parasimpática (vagal) del sistema nervioso autónomo sobre el nodo sinusal. Mientras que el sistema simpático tiende a reducir esta variabilidad en situaciones de estrés o actividad, el predominio del sistema parasimpático en reposo aumenta la variabilidad, lo que generalmente se asocia con un mejor estado de salud y un factor protector para el corazón.
   
 ### 4. Diagrama de Poincaré como herramienta de análisis de la serie R-R. 
 
