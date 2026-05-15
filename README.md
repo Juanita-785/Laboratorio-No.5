@@ -67,9 +67,12 @@ En el ámbito clínico y de investigación, la principal ventaja de esta herrami
 
 ### Parte C
 <p align="center">
-<img width="1024" height="768" alt="1" src="https://github.com/user-attachments/assets/46d173bf-922d-41d8-bb14-89863de3fd2a" />
-<img width="1024" height="768" alt="2" src="https://github.com/user-attachments/assets/1b3a8003-de77-4cfb-895d-36c810282770" />
-<img width="1024" height="768" alt="Lab 3" src="https://github.com/user-attachments/assets/df4ecfc9-9976-43ae-91d5-c3479ab91fd3" />
+<img width="1024" height="768" alt="1" src="https://github.com/user-attachments/assets/cec40524-3426-4bfe-8315-300fce7aef69" />
+<img width="1024" height="768" alt="2" src="https://github.com/user-attachments/assets/3b18c81f-2ec4-409a-81a4-0c0ddcd73075" />
+<img width="1022" height="268" alt="6" src="https://github.com/user-attachments/assets/b63ae1cb-7f7d-44b5-a2a1-fa0cbf8779b5" />
+
+
+## Plan de Acción
 
 
 ## Resultados
