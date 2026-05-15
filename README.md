@@ -1,4 +1,4 @@
-# Laboratorio-No.5
+# Laboratorio-No.5  " Variabilidad de la frecuencia cardíaca (HRV) y balance autonómico "
 ## Juanita Gómez y Shara Cetina
 
 ## Descripción
@@ -66,6 +66,60 @@ En el ámbito clínico y de investigación, la principal ventaja de esta herrami
 
 ## Resultados
 
+### Tacogramas de cada segmento
+<p align="center">
+<img width="1600" height="1061" alt="WhatsApp Image 2026-05-14 at 21 27 14" src="https://github.com/user-attachments/assets/bf565196-e8bc-4080-ae50-6558a2f01f26" />
+
+<p align="center">
+
+### Picos R
+#### Primer segmento
+<p align="center">
+<img width="1600" height="536" alt="WhatsApp Image 2026-05-14 at 21 27 15 (2)" src="https://github.com/user-attachments/assets/cd3c6298-e7ed-40dd-9130-08fd679ec026" />
+
+#### Segundo segmento
+<p align="center">
+<img width="1600" height="536" alt="WhatsApp Image 2026-05-14 at 21 27 15 (3)" src="https://github.com/user-attachments/assets/1807cdd1-2211-48c3-95f1-1f4b77c5bd87" />
+
+### Comparación de parámetros HRV
+<p align="center">
+<img width="994" height="648" alt="WhatsApp Image 2026-05-14 at 21 27 15 (4)" src="https://github.com/user-attachments/assets/efdbc5ad-09ae-4154-b6bd-e36de45334cc" />
+
+
+<div align="center">
+ 
+#### Datos a comparar 
+
+| Parámetro                         | Reposo | Lectura/Actividad |
+|-----------------------------------|---------|-------------------|
+| Media R-R (s)                     | 0.7958  | 0.7134            |
+| Desviación Estándar SDNN (s)      | 0.0573  | 0.0530            |
+| Varianza (s²)                     | 0.003280| 0.002810          |
+| Frecuencia Cardíaca Promedio (BPM)| 75.4    | 84.1              |
+
+</div>
+
+### Diagramas de Poincaré
+
+#### Segmento 1 (Reposo) y Segmento 2 (Lectura / Actividad)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/afdc99e7-fa18-485a-80aa-752630a321be" width="400"/>
+<img src="https://github.com/user-attachments/assets/7048f30f-8737-4c8f-8680-bcd757faba14" width="400"/>
+</p>
+
+
+<div align="center">
+
+#### Datos obtenidos a partir del diagrama de Poincaré
+
+| Parámetro                         | Reposo | Lectura/Actividad |
+|-----------------------------------|---------|-------------------|
+| SD1 (s)                           | 0.0265  | 0.0227            |
+| SD2 (s)                           | 0.0755  | 0.0716            |
+| CSI (actividad simpática)         | 2.8503  | 3.1577            |
+| CVI (actividad vagal)             | -2.6988 | -2.7896           |
+
+</div>
 
 ## Conclusión
 <p align="justify">
