@@ -36,10 +36,31 @@ Desde una perspectiva técnica, la HRV se obtiene a partir de la señal de elect
 
 <p align="justify">
 Fisiológicamente, la HRV es un indicador fundamental de la función autonómica cardíaca, ya que refleja la interacción dinámica y el equilibrio entre las ramas simpática y parasimpática (vagal) del sistema nervioso autónomo sobre el nodo sinusal. Mientras que el sistema simpático tiende a reducir esta variabilidad en situaciones de estrés o actividad, el predominio del sistema parasimpático en reposo aumenta la variabilidad, lo que generalmente se asocia con un mejor estado de salud y un factor protector para el corazón.
-  
-### 4. Diagrama de Poincaré como herramienta de análisis de la serie R-R. 
 
-### Diagramas de flujo
+
+<p align="justify">
+  
+### 4. Diagrama de Poincaré como herramienta de análisis de la serie R-R.
+
+El diagrama de Poincaré es una técnica de análisis no lineal y de visualización estándar utilizada para evaluar la dinámica de la variabilidad de la frecuencia cardíaca (HRV). Se define matemáticamente como un mapa de retorno o gráfico de dispersión bidimensional, en el cual cada intervalo R-R de la serie temporal ($RR_ n$) se grafica en el eje horizontal frente al intervalo inmediatamente subsiguiente ($RR_ n+1) en el eje vertical.
+
+<p align="justify">
+
+Esta herramienta permite transformar la serie de tiempo del tacograma en una configuración geométrica (habitualmente una elipse en sujetos sanos), facilitando la detección de patrones, oscilaciones e irregularidades que no son evidentes mediante métodos lineales tradicionales. La interpretación del diagrama se basa en la cuantificación de su geometría a través de dos ejes principales:
+
+### 1. Eje Transversal ($T$ o $SD1$): 
+<p align="justify">
+Es perpendicular a la línea de identidad ($RR_ n=RR_n+1$). Representa la desviación estándar del cambio instantáneo o la variabilidad latido a latido, lo cual es un indicador directo de la actividad parasimpática (vagal).
+
+<p align="justify">
+  
+### 2.Eje Longitudinal ($L$ o $SD2$): 
+<p align="justify">
+Se ubica a lo largo de la línea de identidad. Representa la variabilidad a largo plazo y la amplitud total de las fluctuaciones de los intervalos R-R.
+
+En el ámbito clínico y de investigación, la principal ventaja de esta herramienta es su capacidad para derivar índices independientes del balance autonómico, como el Índice Vagal Cardíaco (CVI) y el Índice Simpático Cardíaco (CSI), proporcionando una evaluación fiable incluso con registros cortos de tan solo 100 intervalos R-R. Visualmente, una elipse de mayor área indica un tono vagal elevado, mientras que una figura más alargada y estrecha sugiere un incremento en la actividad simpática.
+
+## Diagramas de flujo
 
 
 
