@@ -25,9 +25,10 @@ Durante el pre-procesamiento, la señal fue tratada en el entorno Spyder (Python
 Finalmente, se realizó el análisis de la HRV comparando los parámetros básicos en el dominio del tiempo, tales como la media de los intervalos R-R y la desviación estándar (SDNN). Complementariamente, se aplicó el método no lineal del diagrama de Poincaré (o gráfico de Lorenz), analizando la dispersión de la nube de puntos en cada caso. A partir de este diagrama, se calcularon el Índice Vagal Cardíaco (CVI) y el Índice Simpático Cardíaco (CSI), permitiendo evaluar de forma independiente y cuantitativa los cambios en el balance autonómico del sujeto generados por la realizacíón de la lectura en voz alta.
   
 ## Definiciones
+### 1. Actividad simpática y parasimpática del sistema nervioso autónomo
 <p align="justify">
 
-  
+### 2. Efecto de la actividad simpática y parasimpática en la frecuencia cardíaca
 <p align="justify">
   
 ### 3. Variabilidad de la frecuencia cardíaca (HRV) obtenida a partir de la señal electrocardiográfica (ECG)
