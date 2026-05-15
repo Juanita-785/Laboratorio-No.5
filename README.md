@@ -42,7 +42,7 @@ Fisiológicamente, la HRV es un indicador fundamental de la función autonómica
   
 ### 4. Diagrama de Poincaré como herramienta de análisis de la serie R-R.
 
-El diagrama de Poincaré es una técnica de análisis no lineal y de visualización estándar utilizada para evaluar la dinámica de la variabilidad de la frecuencia cardíaca (HRV). Se define matemáticamente como un mapa de retorno o gráfico de dispersión bidimensional, en el cual cada intervalo R-R de la serie temporal ($RR_ n$) se grafica en el eje horizontal frente al intervalo inmediatamente subsiguiente ($RR_ n+1) en el eje vertical.
+El diagrama de Poincaré es una técnica de análisis no lineal y de visualización estándar utilizada para evaluar la dinámica de la variabilidad de la frecuencia cardíaca (HRV). Se define matemáticamente como un mapa de retorno o gráfico de dispersión bidimensional, en el cual cada intervalo R-R de la serie temporal ($RR_ n$) se grafica en el eje horizontal frente al intervalo inmediatamente subsiguiente ($RR_ n+1$) en el eje vertical.
 
 <p align="justify">
 
