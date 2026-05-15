@@ -73,6 +73,10 @@ En el ámbito clínico y de investigación, la principal ventaja de esta herrami
 
 
 ## Plan de Acción
+<p align="center">
+<img width="1024" height="768" alt="1" src="https://github.com/user-attachments/assets/f3330e97-00db-4fd7-8531-53208424089c" />
+<img width="1024" height="768" alt="2" src="https://github.com/user-attachments/assets/171cd6f6-2c0c-43e8-98e6-cc95e87029a4" />
+<img width="1023" height="487" alt="7" src="https://github.com/user-attachments/assets/62416fef-1705-477d-9ce1-2cd5d4f3bc90" />
 
 
 ## Resultados
