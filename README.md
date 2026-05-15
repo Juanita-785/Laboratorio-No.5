@@ -37,6 +37,13 @@ Por otra parte, el sistema nervioso parasimpático está relacionado con la cons
   
 ### 2. Efecto de la actividad simpática y parasimpática en la frecuencia cardíaca
 <p align="justify">
+La activación simpática aumenta la frecuencia cardíaca debido a que acelera la despolarización diastólica espontánea en el nodo sinusal. Esto ocurre por el incremento en la entrada de calcio y otras corrientes iónicas en las células del nodo sinusal, permitiendo que el corazón alcance el umbral de disparo más rápidamente.
+
+<p align="justify">
+Por otra parte, la estimulación vagal (parasimpática) disminuye la frecuencia cardíaca. Cuando se activan los receptores colinérgicos, se produce la apertura de canales de potasio, generando una hiperpolarización de las células marcapasos y dificultando su despolarización. Como consecuencia, disminuye la descarga del nodo sinusal y se enlentece la conducción entre aurículas y ventrículos.
+
+<p align="justify">
+En un corazón sano y en estado de reposo, predomina el tono parasimpático sobre el simpático. Sin esta influencia vagal, la frecuencia intrínseca de disparo del nodo sinusal sería considerablemente mayor, aproximadamente entre 100 y 120 latidos por minuto.
   
 ### 3. Variabilidad de la frecuencia cardíaca (HRV) obtenida a partir de la señal electrocardiográfica (ECG)
 La Variabilidad de la Frecuencia Cardíaca (HRV) se define como la variación en el tiempo (medida en milisegundos) que transcurre entre latidos cardíacos consecutivos, conocidos como intervalos R-R. En un individuo sano, el ritmo cardíaco no es perfectamente regular; por el contrario, el tiempo entre dos latidos varía latido a latido debido a la influencia constante de mecanismos reguladores.
