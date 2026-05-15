@@ -68,3 +68,9 @@ En el ámbito clínico y de investigación, la principal ventaja de esta herrami
 
 
 ## Conclusión
+<p align="justify">
+A partir de los resultados obtenidos en el laboratorio, se concluye que el paso de un estado de reposo absoluto a la actividad cognitiva y verbal (lectura en voz alta) indujo un cambio significativo y cuantificable en el balance autonómico del sujeto, caracterizado por una marcada activación de la rama simpática y un retiro de la modulación vagal. En el dominio del tiempo, esta transición se manifestó con un incremento de la frecuencia cardíaca promedio de 75.4 a 84.1 BPM, acompañado de una reducción en la variabilidad global (SDNN disminuyó de 0.0573 s a 0.0530 s), lo que refleja un ritmo cardíaco más acelerado y regular bajo estrés.
+
+<p align="justify">
+El análisis no lineal mediante el diagrama de Poincaré permitió una evaluación más profunda y sensible que los métodos tradicionales: el aumento del Índice Simpático Cardíaco (CSI) de 2.8503 a 3.1577 y la disminución del Índice Vagal Cardíaco (CVI) de -2.6988 a -2.7896 evidencian geométricamente una elipse más alargada y estrecha, producto de la reducción de la variabilidad instantánea latido a latido (SD1). Estos hallazgos validan la eficacia del método de Lorenz como una herramienta clínica robusta, capaz de capturar la compleja dinámica del sistema cardiovascular en registros cortos de solo 2 minutos, proporcionando una visualización inmediata y fiable del estado fisiológico del paciente que supera en estabilidad al análisis espectral.
+
