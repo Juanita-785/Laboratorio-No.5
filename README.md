@@ -3,7 +3,7 @@
 
 ## Descripción
 <p align="justify">
-
+Este proyecto contiene el código y la información necesarios para comprender la variabilidad de la frecuencia cardíaca (HRV) e identificar cambios en el balance autonómico. Además, incluye el análisis de señales ECG mediante técnicas como el HRV en el dominio del tiempo (media y SDNN) y el diagrama de Poincaré, así como la implementación de filtros IIR a partir de la obtención de su ecuación en diferencias.
 
 ## Propósito
 <p align="justify">
