@@ -85,6 +85,9 @@ En el ámbito clínico y de investigación, la principal ventaja de esta herrami
 <img width="1023" height="487" alt="7" src="https://github.com/user-attachments/assets/62416fef-1705-477d-9ce1-2cd5d4f3bc90" />
 
 ### Parte B
+<p align="center">
+<img width="1024" height="768" alt="1" src="https://github.com/user-attachments/assets/e396a8ad-2c1f-49d7-8229-379940ac2f41" />
+<img width="1022" height="448" alt="5" src="https://github.com/user-attachments/assets/265d3941-67df-4f9c-beb4-3a5b7b106901" />
 
 ### Parte C
 <p align="center">
