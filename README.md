@@ -53,9 +53,6 @@ Desde una perspectiva técnica, la HRV se obtiene a partir de la señal de elect
 
 <p align="justify">
 Fisiológicamente, la HRV es un indicador fundamental de la función autonómica cardíaca, ya que refleja la interacción dinámica y el equilibrio entre las ramas simpática y parasimpática (vagal) del sistema nervioso autónomo sobre el nodo sinusal. Mientras que el sistema simpático tiende a reducir esta variabilidad en situaciones de estrés o actividad, el predominio del sistema parasimpático en reposo aumenta la variabilidad, lo que generalmente se asocia con un mejor estado de salud y un factor protector para el corazón.
-
-
-<p align="justify">
   
 ### 4. Diagrama de Poincaré como herramienta de análisis de la serie R-R.
 
@@ -79,12 +76,7 @@ En el ámbito clínico y de investigación, la principal ventaja de esta herrami
 
 ## Diagramas de flujo
 
-### Parte C
-<p align="center">
-<img width="1024" height="768" alt="1" src="https://github.com/user-attachments/assets/cec40524-3426-4bfe-8315-300fce7aef69" />
-<img width="1024" height="768" alt="2" src="https://github.com/user-attachments/assets/3b18c81f-2ec4-409a-81a4-0c0ddcd73075" />
-<img width="1022" height="268" alt="6" src="https://github.com/user-attachments/assets/b63ae1cb-7f7d-44b5-a2a1-fa0cbf8779b5" />
-
+### Parte A
 
 ## Plan de Acción
 <p align="center">
@@ -92,6 +84,13 @@ En el ámbito clínico y de investigación, la principal ventaja de esta herrami
 <img width="1024" height="768" alt="2" src="https://github.com/user-attachments/assets/171cd6f6-2c0c-43e8-98e6-cc95e87029a4" />
 <img width="1023" height="487" alt="7" src="https://github.com/user-attachments/assets/62416fef-1705-477d-9ce1-2cd5d4f3bc90" />
 
+### Parte B
+
+### Parte C
+<p align="center">
+<img width="1024" height="768" alt="1" src="https://github.com/user-attachments/assets/cec40524-3426-4bfe-8315-300fce7aef69" />
+<img width="1024" height="768" alt="2" src="https://github.com/user-attachments/assets/3b18c81f-2ec4-409a-81a4-0c0ddcd73075" />
+<img width="1022" height="268" alt="6" src="https://github.com/user-attachments/assets/b63ae1cb-7f7d-44b5-a2a1-fa0cbf8779b5" />
 
 ## Resultados
 
