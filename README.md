@@ -27,7 +27,14 @@ Finalmente, se realizó el análisis de la HRV comparando los parámetros básic
 ## Definiciones
 ### 1. Actividad simpática y parasimpática del sistema nervioso autónomo
 <p align="justify">
+El sistema nervioso autónomo es el encargado de regular las funciones involuntarias del organismo y mantener la homeostasis cardiovascular mediante la interacción entre el sistema nervioso simpático y el parasimpático. El control de la actividad cardíaca se logra a través del equilibrio entre estas dos divisiones principales.
 
+<p align="justify">
+El sistema nervioso simpático actúa como un mecanismo de respuesta ante situaciones de estrés o emergencia y se asocia con la respuesta de “lucha o huida”. Las terminaciones simpáticas liberan noradrenalina, mientras que la médula suprarrenal secreta adrenalina al torrente sanguíneo. Estas sustancias interactúan principalmente con los receptores adrenérgicos del corazón, produciendo un aumento de la frecuencia cardíaca (cronotropismo positivo) y de la fuerza de contracción (inotropismo positivo).
+
+<p align="justify">
+Por otra parte, el sistema nervioso parasimpático está relacionado con la conservación de energía, el descanso y la recuperación posterior a situaciones de estrés. Su principal neurotransmisor es la acetilcolina (ACh). En el corazón, la ACh se une a receptores colinérgicos muscarínicos ubicados en las células marcapasos, generando una disminución de la frecuencia cardíaca (cronotropismo negativo).
+  
 ### 2. Efecto de la actividad simpática y parasimpática en la frecuencia cardíaca
 <p align="justify">
   
