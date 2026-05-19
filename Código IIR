@@ -1,0 +1,133 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri May  8 13:46:56 2026
+
+@author: manue
+"""
+
+import nidaqmx
+from nidaqmx.constants import AcquisitionType
+import matplotlib.pyplot as plt
+import numpy as np
+from scipy.signal import butter, lfilter, lfilter_zi
+
+# ==========================================
+# PARÁMETROS
+# ==========================================
+
+fs = 800
+duracion = 240
+
+dispositivo = 'Dev2/ai0'
+
+total_muestras = int(fs * duracion)
+
+# ==========================================
+# VECTORES
+# ==========================================
+
+senal_cruda = []
+senal_filtrada = []
+
+# ==========================================
+# DISEÑO FILTRO IIR
+# ==========================================
+
+# Frecuencias de corte
+fc_low = 0.5
+fc_high = 40
+
+# Normalización
+wn = [fc_low/(fs/2), fc_high/(fs/2)]
+
+# Butterworth orden 4
+b, a = butter(4, wn, btype='bandpass')
+
+# Estado inicial del filtro
+zi = lfilter_zi(b, a)
+
+# ==========================================
+# ADQUISICIÓN
+# ==========================================
+
+with nidaqmx.Task() as task:
+
+    task.ai_channels.add_ai_voltage_chan(dispositivo)
+
+    task.timing.cfg_samp_clk_timing(
+        fs,
+        sample_mode=AcquisitionType.CONTINUOUS
+    )
+
+    print("Adquiriendo ECG + filtro IIR...")
+
+    muestras_adquiridas = 0
+
+    while muestras_adquiridas < total_muestras:
+
+        # ==================================
+        # LEER BLOQUE
+        # ==================================
+
+        bloque = task.read(number_of_samples_per_channel=50)
+
+        bloque = np.array(bloque)
+
+        # ==================================
+        # FILTRO IIR ONLINE
+        # ==================================
+
+        y, zi = lfilter(b, a, bloque, zi=zi)
+
+        # ==================================
+        # GUARDAR
+        # ==================================
+
+        senal_cruda.extend(bloque)
+        senal_filtrada.extend(y)
+
+        muestras_adquiridas += len(bloque)
+
+print("Adquisición terminada")
+
+# ==========================================
+# CONVERTIR A NUMPY
+# ==========================================
+
+senal_cruda = np.array(senal_cruda)
+senal_filtrada = np.array(senal_filtrada)
+
+# ==========================================
+# GUARDAR
+# ==========================================
+
+np.savetxt("ECG_crudoIIR.txt", senal_cruda)
+np.savetxt("ECG_filtrado_IIR.txt", senal_filtrada)
+
+print("Archivos guardados")
+
+# ==========================================
+# GRAFICAR
+# ==========================================
+
+t = np.arange(len(senal_cruda)) / fs
+
+plt.figure(figsize=(15,5))
+
+plt.plot(t,
+         senal_cruda,
+         alpha=0.4,
+         label='ECG Crudo')
+
+plt.plot(t,
+         senal_filtrada,
+         linewidth=1.5,
+         label='ECG Filtrado IIR')
+
+plt.xlabel('Tiempo (s)')
+plt.ylabel('Voltaje')
+plt.title('ECG Filtrado con IIR Butterworth')
+plt.grid(True)
+plt.legend()
+
+plt.show()
